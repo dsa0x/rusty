@@ -1,5 +1,5 @@
-mod algo;
+mod mem;
 
 fn main() {
-    algo::run();
+    mem::run();
 }
