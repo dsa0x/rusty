@@ -1,5 +1,5 @@
-mod cli;
+mod algo;
 
 fn main() {
-    cli::run();
+    algo::run();
 }
